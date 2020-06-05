@@ -1,1 +1,6 @@
-# react-components
+## Installation
+
+```
+npm install thidiff-react-components
+```
+
